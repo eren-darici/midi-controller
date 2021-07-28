@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31410.414
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "midi-controller-ui", "midi-controller-ui.csproj", "{6E5BD856-278B-4AD1-8003-D621DEC370FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5BD856-278B-4AD1-8003-D621DEC370FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5BD856-278B-4AD1-8003-D621DEC370FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5BD856-278B-4AD1-8003-D621DEC370FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5BD856-278B-4AD1-8003-D621DEC370FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCED418F-9AB4-4C71-A570-F3F61686558A}
+	EndGlobalSection
+EndGlobal
